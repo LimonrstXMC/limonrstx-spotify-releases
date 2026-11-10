@@ -20,3 +20,6 @@ Masaüstü müzik ve oyun içi SoundCloud Windows gerektirir. Sky Lyrics herkese
 Şarkı paylaşımı açıksa oyuncu kimliği ve parça bilgileri müzik servisine gönderilir. VIP servisi Minecraft oturumunu doğrular. Kapaklar Spotify/SoundCloud görsel sunucularından indirilebilir. Güncelleme kontrolü GitHub API’sine bağlanır. Normal tarayıcı çerezleri içe aktarılmaz; Spotify ve SoundCloud hesap bilgileri bu depoda yer almaz.
 
 Bu depo yalnızca hazır sürüm JAR’ları içindir. Kaynak kod deposu özeldir. Spotify, SoundCloud, Microsoft veya Mojang ile resmi bağlantı yoktur.
+
+## Diller
+Ayarlar → Dil / Language: Türkçe, English, Deutsch, Français, العربية, Español ve Português. Tercih kaydedilir; çeviriler modla birlikte gelir.
