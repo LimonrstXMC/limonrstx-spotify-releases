@@ -11,7 +11,7 @@ Java 21+, Fabric Loader 0.18.2+, Fabric API 0.141.1+ ve Mod Menu 17.0.0+ gerekir
 
 `O`: Oynatıcı · `Ş`: Ayarlar. Tuşlar Minecraft kontrollerinden değiştirilebilir.
 
-Masaüstü müzik ve oyun içi SoundCloud Windows gerektirir. Sky Lyrics, Spotify hesap bağlantısı ve özel fotoğraf arka planı aktif VIP gerektirir. Spotify bağlantısı ayrıca Spotify’ın uygulama erişim koşullarına tabidir.
+Masaüstü müzik ve oyun içi SoundCloud Windows gerektirir. Sky Lyrics herkese açıktır. Spotify hesap bağlantısı ve özel fotoğraf arka planı aktif VIP gerektirir. Spotify bağlantısı ayrıca Spotify’ın uygulama erişim koşullarına tabidir.
 
 ## Güncellemeler
 1.0.8’den itibaren mod açılışta yeni sürümü kontrol eder. Ayarlar → Güncellemeler → İndir üzerinden hazırlanır; Windows’ta oyun kapatılınca kurulur. Otomatik kontrol kapatılabilir. İndirme boyutu, SHA-256, mod kimliği ve Minecraft sürümü doğrulanır. Mevcut mod dosyası yedeklenir; kişisel ayarlar ve hesap dosyaları korunur.
